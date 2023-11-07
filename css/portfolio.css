@@ -8,6 +8,10 @@
     font-family: "Montserrat";
 }
 
+body{
+    overflow-x: hidden;
+}
+
 .header{
     display: flex;
     flex-direction: row;
